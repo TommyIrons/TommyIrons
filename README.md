@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TommyIrons. I'm a first year PhD student at the University of Exeter.
+- 👋 Hi, I’m @TommyIrons. I'm a second year PhD student at the University of Exeter.
 - 👀 I’m interested in applying statistical science to environmental challenges.
 - 🌱 I’m currently learning various approximate Bayesian inference methods for statistical post-processing of weather forecasts for my PhD.
 
